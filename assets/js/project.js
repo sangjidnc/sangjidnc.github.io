@@ -10,17 +10,17 @@ var parseList = function(data){
 	
 	$.each(data.projects, function(index, value){
 		switch(value.group){
-			case "Medical":
-				medical.push(value);
+			case "Leisure":
+				leisure.push(value);
 				break;
 			case "Office":
 				office.push(value);
 				break;
-			case "Leisure":
-				leisure.push(value);
-				break;
 			case "Residence":
 				residence.push(value);
+				break;
+			case "Medical":
+				medical.push(value);
 				break;
 			case "Education":
 				education.push(value);
