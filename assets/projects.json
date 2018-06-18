@@ -63,7 +63,7 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
-			"list_title" : "제주 함덕 라마다 앙코르 호텔 객실",
+			"list_title" : "* 제주 함덕 라마다 앙코르 호텔 객실",
 			"image_title" : "제주 함덕 라마다 앙코르 호텔 객실",
 			"year" : 2014,
 			"location" : "제주특별자치도 제주시",
@@ -400,21 +400,6 @@
 			"group" : "Office",
 			"type"	: "인테리어 설계",
 			"list_title" : "* 대한항공 K.O.C",
-			"image_title" : "대한항공 K.O.C",
-			"year" : 2011,
-			"location" : "서울특별시 서초구",
-			"thumbnail" : "/assets/images/projects/2011.01.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2011.01.01.jpg"
-				}
-			]
-		},
-
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "대한항공 K.O.C",
 			"image_title" : "대한항공 K.O.C",
 			"year" : 2011,
 			"location" : "서울특별시 서초구",
