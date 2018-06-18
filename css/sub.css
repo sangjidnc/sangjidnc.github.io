@@ -12,7 +12,7 @@ article{
 .wrapper{
 background:#6d6e71;
 }
-.profile .pf-name{
+.pf-table>.row>.pf-name{
  color:#fff !important;
 }
 
