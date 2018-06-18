@@ -16,7 +16,7 @@ background:#6d6e71;
  color:#fff !important;
 }
 
-.profile .pf-name-eng{
+.pf-table>.row.pf-name-eng{
  color:#fff !important;
 }
 
@@ -25,5 +25,5 @@ color:#fff !important;
 }
 
 .profile .pf-col2{
-color:#fff !important;
+color:#eaeaea !important;
 }
