@@ -2,7 +2,7 @@
 
 
 .page-content{
- background:#666; 
+ background:#6d6e71; 
 }
 
 article{
@@ -10,5 +10,20 @@ article{
 }
 
 .wrapper{
-background:#666;
+background:#6d6e71;
+}
+.profile .pf-name{
+ color:#fff !important;
+}
+
+.profile .pf-name-eng{
+ color:#fff !important;
+}
+
+.pf-table>.row>.pf-col1{
+color:#fff !important;
+}
+
+.profile .pf-col2{
+color:#fff !important;
 }
