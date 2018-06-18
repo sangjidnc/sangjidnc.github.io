@@ -147,7 +147,7 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
-			"list_title" : "여수 히든베이 호텔",
+			"list_title" : "* 여수 히든베이 호텔",
 			"image_title" : "여수 히든베이 호텔",
 			"year" : 2016,
 			"location" : "전라남도 여수",
@@ -162,7 +162,7 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
-			"list_title" : "제주 해비치 호텔",
+			"list_title" : "* 제주 해비치 호텔",
 			"image_title" : "제주 해비치 호텔",
 			"year" : 2016,
 			"location" : "제주도 제주",
@@ -384,7 +384,7 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "연세대 글로벌 라운지",
+			"list_title" : "* 연세대 글로벌 라운지",
 			"image_title" : "연세대 글로벌 라운지",
 			"year" : 2011,
 			"location" : "서울특별시 서초구",
@@ -399,7 +399,7 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "대한항공 K.O.C",
+			"list_title" : "* 대한항공 K.O.C",
 			"image_title" : "대한항공 K.O.C",
 			"year" : 2011,
 			"location" : "서울특별시 서초구",
@@ -852,7 +852,7 @@
 		{
 			"group" : "Residence",
 			"type"	: "UNIT 개발 및 인테리어 기획 설계",
-			"list_title" : "서교동 주택 리모델링",
+			"list_title" : "* 서교동 주택 리모델링",
 			"image_title" : "서교동 주택 리모델링",
 			"year" : 2009,
 			"location" : "서울특별시 관악구",
@@ -999,7 +999,7 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 기획설계",
-			"list_title" : "에버원 메디컬센터",
+			"list_title" : "* 에버원 메디컬센터",
 			"image_title" : "에버원 메디컬센터",
 			"year" : 2009,
 			"location" : "서울특별시 강남구",
@@ -1014,7 +1014,7 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 기획설계",
-			"list_title" : "서울대학교 강남 검진센터",
+			"list_title" : "* 서울대학교 강남 검진센터",
 			"image_title" : "서울대학교 강남 검진센터",
 			"year" : 2009,
 			"location" : "서울특별시 강남구",
@@ -1088,7 +1088,7 @@
 		{
 			"group" : "Education",
 			"type"	: "인테리어 설계",
-			"list_title" : "문경 녹색 문화 상생벨트",
+			"list_title" : "* 문경 녹색 문화 상생벨트",
 			"image_title" : "문경 녹색 문화 상생벨트",
 			"year" : 2012,
 			"location" : "대전광역시 유성구",
