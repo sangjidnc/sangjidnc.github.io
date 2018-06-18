@@ -1,1 +1,14 @@
 @charset "utf-8";
+
+
+.page-content{
+ background:#666; 
+}
+
+article{
+ background:none; 
+}
+
+.wrapper{
+background:#666;
+}
