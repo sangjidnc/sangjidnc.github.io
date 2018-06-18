@@ -3,7 +3,7 @@
 		{
 			"group" : "Leisure",
 			"type"	: "건축& 인테리어 설계",
-			"list_title" : "11111111",
+			"list_title" : "고흥 SPACE VILLAGE",
 			"image_title" : "고흥 SPACE VILLAGE",
 			"year" : 2016,
 			"location" : "전라남도 고흥",
@@ -234,8 +234,8 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "금강제화 강남사옥 V.I.P층",
-			"image_title" : "금강제화 강남사옥 V.I.P층",
+			"list_title" : "금강제화 V.I.P층",
+			"image_title" : "금강제화 V.I.P층",
 			"year" : 2011,
 			"location" : "서울특별시 서초구",
 			"thumbnail" : "/assets/images/projects/2011.01.00.jpg",
@@ -369,8 +369,8 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "랜드마크 C&D 오피스 인테리어",
-			"image_title" : "랜드마크 C&D 오피스 인테리어",
+			"list_title" : "랜드마크 C&D OFFICE",
+			"image_title" : "랜드마크 C&D OFFICE",
 			"year" : 2014,
 			"location" : "서울특별시 성동구",
 			"thumbnail" : "/assets/images/projects/2014.03.00.jpg",
@@ -384,8 +384,23 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "계룡 건설 사옥 (현상참여)",
-			"image_title" : "계룡 건설 사옥",
+			"list_title" : "계룡 건설 현상설계",
+			"image_title" : "계룡 건설 현상설계",
+			"year" : 2013,
+			"location" : "대전광역시 서구",
+			"thumbnail" : "/assets/images/projects/2013.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2013.02.01.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "유진 투자 증권 V.I.P층",
+			"image_title" : "유진 투자 증권 V.I.P층",
 			"year" : 2013,
 			"location" : "대전광역시 서구",
 			"thumbnail" : "/assets/images/projects/2013.02.00.jpg",
@@ -399,8 +414,8 @@
 		{
 			"group" : "Office",
 			"type"	: "건축&인테리어 설계",
-			"list_title" : "삼성 SDI 울산공장 사무동",
-			"image_title" : "삼성 SDI 울산공장 사무동",
+			"list_title" : "삼성 SDI 울산공장",
+			"image_title" : "삼성 SDI 울산공장",
 			"year" : 2010,
 			"location" : "울산광역시 울주군",
 			"thumbnail" : "/assets/images/projects/2010.02.00.jpg",
@@ -414,8 +429,8 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "컴투게더 사옥 루프 탑 라운지",
-			"image_title" : "컴투게더 사옥 루프 탑 라운지",
+			"list_title" : "컴투게더 사옥 옥탑 라운지",
+			"image_title" : "컴투게더 사옥 옥탑 라운지",
 			"year" : 2011,
 			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/2011.02.00.jpg",
@@ -474,8 +489,8 @@
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "동양파라곤 2차 Trend up",
-			"image_title" : "동양파라곤 2차 Trend up",
+			"list_title" : "동양파라곤 2차 UNIT 리모델링",
+			"image_title" : "동양파라곤 2차 UNIT 리모델링",
 			"year" : 2010,
 			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/2010.03.00.jpg",
@@ -534,8 +549,8 @@
 		{
 			"group" : "Residence",
 			"type"	: "UNIT 개발 및 인테리어 기획 설계",
-			"list_title" : "서울대역 디오빌",
-			"image_title" : "서울대역 디오빌",
+			"list_title" : "서울대입구역 디오빌 오피스텔",
+			"image_title" : "서울대입구역 디오빌 오피스텔",
 			"year" : 2009,
 			"location" : "서울특별시 관악구",
 			"thumbnail" : "/assets/images/projects/2009.14.00.jpg",
@@ -609,8 +624,8 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "몽골 메디컬 센터",
-			"image_title" : "몽골 메디컬 센터",
+			"list_title" : "몽골 울란바토르 메디컬센터",
+			"image_title" : "몽골 울란바토르 메디컬센터",
 			"year" : 2016,
 			"location" : "몽골 울란바토르",
 			"thumbnail" : "/assets/images/projects/2016.02.00.jpg",
@@ -624,8 +639,8 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 기획설계",
-			"list_title" : "압구정 우태하 피부과",
-			"image_title" : "압구정 우태하 피부과",
+			"list_title" : "우태하 피부과",
+			"image_title" : "우태하 피부과",
 			"year" : 2009,
 			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/2009.02.00.jpg",
@@ -654,7 +669,7 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 기획설계",
-			"list_title" : "에서울대학교 강남 검진센터",
+			"list_title" : "서울대학교 강남 검진센터",
 			"image_title" : "서울대학교 강남 검진센터",
 			"year" : 2009,
 			"location" : "서울특별시 강남구",
@@ -668,8 +683,8 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "한국표준과학연구원 역학동",
-			"image_title" : "한국표준과학연구원 역학동",
+			"list_title" : "한국 표준과학연구원 역학동",
+			"image_title" : "한국 표준과학연구원 역학동",
 			"year" : 2013,
 			"location" : "대전광역시 유성구",
 			"thumbnail" : "/assets/images/projects/2013.01.00.jpg",
@@ -713,8 +728,8 @@
 		{
 			"group" : "Education",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "동강 생태체험학습장 (현상참여)",
-			"image_title" : "동강 생태체험학습장",
+			"list_title" : "정선 생태체험학습장 전시관 현상설계",
+			"image_title" : "정선 생태체험학습장 전시관 현상설계",
 			"year" : 2011,
 			"location" : "강원도 정선군",
 			"thumbnail" : "/assets/images/projects/2011.04.00.jpg",
@@ -728,8 +743,8 @@
 		{
 			"group" : "Education",
 			"type"	: "인테리어 설계",
-			"list_title" : "과학기술연합대학원 대학교(UST) 대학본부",
-			"image_title" : "과학기술연합대학원 대학교(UST) 대학본부",
+			"list_title" : "과학기술연합대학원(UST) 대학본부",
+			"image_title" : "과학기술연합대학원(UST) 대학본부",
 			"year" : 2010,
 			"location" : "대전광역시 유성구",
 			"thumbnail" : "/assets/images/projects/2010.06.00.jpg",
@@ -743,8 +758,8 @@
 		{
 			"group" : "Commercial",
 			"type"	: "매뉴얼 설계",
-			"list_title" : "토니모리",
-			"image_title" : "토니모리",
+			"list_title" : "토니모리 메뉴얼 설계",
+			"image_title" : "토니모리 메뉴얼 설계",
 			"year" : 2012,
 			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/2012.05.00.jpg",
@@ -758,8 +773,8 @@
 		{
 			"group" : "Commercial",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "나뚜르 카페 (현상참여)",
-			"image_title" : "나뚜르 카페",
+			"list_title" : "나뚜르 카페 현상설계",
+			"image_title" : "나뚜르 카페 현상설계",
 			"year" : 2012,
 			"location" : "서울특별시 용산구",
 			"thumbnail" : "/assets/images/projects/2011.05.00.jpg",
