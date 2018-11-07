@@ -719,6 +719,114 @@
 				}
 			]
 		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "김포 헤센 견본주택",
+			"image_title" : "김포 헤센 견본주택",
+			"year" : 2012,
+			"location" : "경기도 김포",
+			"thumbnail" : "/assets/images/projects/2018.11.201.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2018.11.201.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2018.11.202.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "안양 센트럴 헤센 2차 홍보관",
+			"image_title" : "안양 센트럴 헤센 2차 홍보관",
+			"year" : 2012,
+			"location" : "경기도 안양",
+			"thumbnail" : "/assets/images/projects/2018.11.301.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2018.11.301.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2018.11.302.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "제주 동홍동 코아루 오피스텔",
+			"image_title" : "제주 동홍동 코아루 오피스텔",
+			"year" : 2012,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2018.11.401.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2018.11.401.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2018.11.402.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "제주 연동 디오션시티 2차",
+			"image_title" : "제주 연동 디오션시티 2차",
+			"year" : 2012,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2018.11.501.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2018.11.501.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2018.11.502.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "제주 중문 오션클라우드",
+			"image_title" : "제주 중문 오션클라우드",
+			"year" : 2012,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2018.11.601.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2018.11.601.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2018.11.602.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "제주 호근동 다세대 아파트",
+			"image_title" : "제주 호근동 다세대 아파트",
+			"year" : 2012,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2018.11.701.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2018.11.701.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2018.11.702.jpg"
+				}
+			]
+		},
 
 		{
 			"group" : "Residence",
