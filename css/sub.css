@@ -33,6 +33,14 @@ color:#eaeaea !important;
  color:#fff;
 }
 
+.area_construction>div{
+margin-bottom:15px;
+}
+
+.area_construction>div:last-child{
+margin-bottom:0;
+}
+
 .construction_bx:after{
  content:'';
  display:block;
@@ -41,11 +49,6 @@ color:#eaeaea !important;
 
 .construction_bx>div{
  float:left;
- margin-bottom:15px;
-}
-
-.construction_bx>div:last-child{
-margin-bottom:0;
 }
 
 .con_lbx{
