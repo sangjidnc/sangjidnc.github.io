@@ -41,7 +41,18 @@ color:#eaeaea !important;
 
 .construction_bx>div{
  float:left;
+ margin-bottom:15px;
 }
+
+.construction_bx>div:last-child{
+margin-bottom:0;
+}
+
+.con_lbx{
+ widht:70px;
+ margin-right:15px;
+}
+
 
 .construction_name{
  font-size:18px;
