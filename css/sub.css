@@ -33,6 +33,10 @@ color:#eaeaea !important;
  color:#fff;
 }
 
+.area_construction{
+ margin-top:20px;
+}
+
 .area_construction>div{
 margin-bottom:15px;
 }
@@ -71,7 +75,10 @@ margin-bottom:0;
 display:block;
  clear:both;
  content:'';
+}
 
+.profile{
+ height:420px;
 }
 
 
