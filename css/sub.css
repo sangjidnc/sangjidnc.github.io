@@ -32,3 +32,28 @@ color:#eaeaea !important;
 .centered_about_st{
  color:#fff;
 }
+
+.construction_bx:after{
+ content:'';
+ display:block;
+ clear:both;
+}
+
+.construction_bx>div{
+ float:left;
+}
+
+.construction_name{
+ font-size:18px;
+}
+
+.construction_st{
+ font-size:18px;
+}
+
+
+
+
+
+
+
