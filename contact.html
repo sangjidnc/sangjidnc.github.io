@@ -21,6 +21,25 @@ layout : base
 	$(document).ready(function(){
 		initMap();
 	});
+	
+	function initMap02() {
+		var sangjidnc = {lat: 33.483228, lng: 126.491417};
+		map02 = new google.maps.Map02(document.getElementById('map02'), {
+			center: sangjidnc,
+			zoom: 15,
+		});	
+	
+		var marker = new google.maps.Marker({
+			position: sangjidnc,
+			animation: google.maps.Animation.DROP,
+			map: map,
+			title: 'sangjidnc'
+		});
+	}
+	
+	$(document).ready(function(){
+		initMap02();
+	});
 </script>
 
 <nav class="site-nav">	
@@ -67,6 +86,9 @@ layout : base
 						<br>
 						<li>(주)상지 (제주법인)<br>A 제주특별시 사장3길 32층(연동)</li>
 					</ul>
+				</div>
+				<div class="map_wrapper">
+					<div id="map02"></div>
 				</div>
 			</div>
 		</div>
