@@ -23,17 +23,17 @@ layout : base
 	});
 	
 	function initMap02() {
-		var sangjidnc02 = {lat: 33.483228, lng: 126.491417};
-		map02 = new google.maps.Map02(document.getElementById('map02'), {
-			center: sangjidnc02,
+		var sangjidnc = {lat: 33.483228, lng: 126.491417};
+		map02 = new google.maps.Map(document.getElementById('map02'), {
+			center: sangjidnc,
 			zoom: 15,
 		});	
 	
 		var marker = new google.maps.Marker({
-			position: sangjidnc02,
+			position: sangjidnc,
 			animation: google.maps.Animation.DROP,
 			map: map,
-			title: 'sangjidnc02'
+			title: 'sangjidnc'
 		});
 	}
 	
