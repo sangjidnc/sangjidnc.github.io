@@ -62,15 +62,7 @@ margin-bottom:0;
 }
 
 
-.construction_name{
- font-size:16px;
- color:#fff;
-}
 
-.construction_st{
- font-size:16px;
- color:#fff;
-}
 
 
 .centered:after{
@@ -117,6 +109,25 @@ display:block;
 .construction_bx06, .construction_bx12{
 margin-right:0;
 }
+
+.construction_position{
+ font-size:15px;
+ color:#fff;
+}
+
+.construction_name{
+ font-size:14px;
+ color:#fff;
+}
+
+.con_department{
+ font-size:14px;
+ color:#fff;
+}
+
+
+
+
 
 
 
