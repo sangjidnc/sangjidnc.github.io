@@ -101,4 +101,21 @@ display:block;
  margin-top:30px;
 }
 
+.area_construction:after{
+ content:'';
+ display:block;
+ clear:both;
+}
+
+.construction_bx {
+ float:left;
+ width:110px;
+ margin-right:14px;
+}
+
+.construction_bx06, .construction_bx12{
+margin-right:0;
+}
+
+
 
