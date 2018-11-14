@@ -102,8 +102,12 @@ display:block;
 .construction_bx {
  float:left;
  width:110px;
- height:240px;
+ height:270px;
  margin-right:14px;
+}
+
+.construction_bx01, .construction_bx02, .construction_bx03, .construction_bx04, .construction_bx05, .construction_bx06{
+ margin-bottom:14px;
 }
 
 .construction_bx06, .construction_bx12{
