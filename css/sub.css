@@ -101,14 +101,14 @@ display:block;
 
 .construction_bx {
  float:left;
- width:110px;
+ width:115px;
  height:240px;
- margin-right:14px;
+ margin-right:8px;
  background: rgba(0,0,0,0.8);
 }
 
 .construction_bx01, .construction_bx02, .construction_bx03, .construction_bx04, .construction_bx05, .construction_bx06{
- margin-bottom:14px;
+ margin-bottom:8px;
 }
 
 .construction_bx06, .construction_bx12{
